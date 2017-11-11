@@ -1,6 +1,8 @@
-# A numerical study ofpressure diffusion around an impermeable anomaly in an otherwisehomogeneous porous media using a finite difference mode
+# A numerical study ofpressure diffusion around an impermeable anomaly in an otherwisehomogeneous porous media using a finite difference model
 
 This is a gathering of files used in a group project in the course TPG4155 Applied Computer Methods in Petroleum Science at the Norwegian University of Science and Technology (NTNU).
+
+
 
 Abstract of the report:
 
